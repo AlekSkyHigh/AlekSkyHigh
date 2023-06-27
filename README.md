@@ -3,10 +3,10 @@
 
 - Certificates
 - [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
-- [https://softuni.bg/certificates/details/149650/1eb452be](https://softuni.bg/certificates/details/149650/1eb452be)
-- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
-- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
-- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
+- [Programming Fundamentals with JavaScript - September 2022](https://softuni.bg/certificates/details/149650/1eb452be)
+- [JS Advanced - January 2023](https://softuni.bg/certificates/details/160174/a94989c6)
+- [JS Applications - February 2023](https://softuni.bg/certificates/details/167820/2b0e94f4)
+- [JS Back-End - May 2023](https://softuni.bg/certificates/details/175216/69782094)
 - 
 
 <h3 align="left">Connect with me:</h3>
