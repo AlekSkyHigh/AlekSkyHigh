@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 
-- Certificates [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
-- Certificates [https://softuni.bg/certificates/details/149650/1eb452be](https://softuni.bg/certificates/details/149650/1eb452be)
-- Certificates [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
-- Certificates [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
-- Certificates [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
+- Certificates
+- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
+- [https://softuni.bg/certificates/details/149650/1eb452be](https://softuni.bg/certificates/details/149650/1eb452be)
+- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
+- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
+- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
 - 
 
 <h3 align="left">Connect with me:</h3>
