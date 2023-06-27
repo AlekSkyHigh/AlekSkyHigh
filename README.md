@@ -7,7 +7,6 @@
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160174/a94989c6)
 - [JS Applications - February 2023](https://softuni.bg/certificates/details/167820/2b0e94f4)
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175216/69782094)
-- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
