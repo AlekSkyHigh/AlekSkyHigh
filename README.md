@@ -2,7 +2,7 @@
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 
 - Certificates
-- [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
+- [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
 - [https://softuni.bg/certificates/details/149650/1eb452be](https://softuni.bg/certificates/details/149650/1eb452be)
 - [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
 - [https://softuni.bg/certificates/details/140168/b8558e58](https://softuni.bg/certificates/details/140168/b8558e58)
