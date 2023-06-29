@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 
-- Certificates
+## Certificates
 - [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
 - [Programming Fundamentals with JavaScript - September 2022](https://softuni.bg/certificates/details/149650/1eb452be)
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160174/a94989c6)
