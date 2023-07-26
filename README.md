@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile! Here you can find a showcase of my skills, projects, and accomplishments. 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AlekSkyHigh&show_icons=true&locale=en" alt="alek" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alek&label=Profile%20views&color=0e75b6&style=flat" alt="alek" /> </p>
 
 ### Certificates:
 - [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
