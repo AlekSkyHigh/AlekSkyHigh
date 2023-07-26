@@ -1,5 +1,8 @@
 ## Welcome to my GitHub profile! Here you can find a showcase of my skills, projects, and accomplishments. 
 
+### Recent Work:
+- [WiseFlow - Effortless Cashflow Tracking, Enhanced Financial Management](https://softuni.bg/certificates/details/140168/b8558e58)
+
 ### Certificates:
 - [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
 - [Programming Fundamentals with JavaScript - September 2022](https://softuni.bg/certificates/details/149650/1eb452be)
