@@ -9,7 +9,7 @@
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160174/a94989c6)
 - [JS Applications - February 2023](https://softuni.bg/certificates/details/167820/2b0e94f4)
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175216/69782094)
-- [Angular - June 2023 (certificate to be issued soon...)](https://softuni.bg/certificates/details/175216/6978209)
+- [Angular - June 2023](https://softuni.bg/certificates/details/182975/175b1b10)
 
 
 ### Languages and Tools:
