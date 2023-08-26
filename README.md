@@ -4,7 +4,7 @@
 - [WiseFlow - Effortless Cashflow Tracking, Enhanced Financial Management](https://github.com/AlekSkyHigh/wise-flow)
 
 ### Certificates:
-- [HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-d16acdb6-af83-4d8e-b631-1db61447153a/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email)
+- [HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-d16acdb6-af83-4d8e-b631-1db61447153a)
 - [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
 - [Programming Fundamentals with JavaScript - September 2022](https://softuni.bg/certificates/details/149650/1eb452be)
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160174/a94989c6)
