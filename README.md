@@ -6,10 +6,10 @@
 ### Certificates:
 - [Angular - June 2023](https://softuni.bg/certificates/details/182975/175b1b10)
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175216/69782094)
+- [JS Applications - February 2023](https://softuni.bg/certificates/details/167820/2b0e94f4)
 - [Programming Basics - July 2022](https://softuni.bg/certificates/details/140168/b8558e58)
 - [Programming Fundamentals with JavaScript - September 2022](https://softuni.bg/certificates/details/149650/1eb452be)
 - [JS Advanced - January 2023](https://softuni.bg/certificates/details/160174/a94989c6)
-- [JS Applications - February 2023](https://softuni.bg/certificates/details/167820/2b0e94f4)
 - [HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-d16acdb6-af83-4d8e-b631-1db61447153a)
 
 ### Languages and Tools:
