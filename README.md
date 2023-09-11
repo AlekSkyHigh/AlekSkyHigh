@@ -13,8 +13,9 @@
 - [HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-d16acdb6-af83-4d8e-b631-1db61447153a)
 
 ### Projects:
-- [Time Value of Money (TVM) Calculator](https://github.com/AlekSkyHigh/Finance-TVM-Calculator)
+- [WiseFlow - Financial Management](https://github.com/AlekSkyHigh/wise-flow)
 - [Number Guess Challenge Game](https://github.com/AlekSkyHigh/Number-Guess-Challenge-Game)
+- [Time Value of Money (TVM) Calculator](https://github.com/AlekSkyHigh/Finance-TVM-Calculator)
   
 
 ### Languages and Tools:
