@@ -1,8 +1,5 @@
 ## Welcome to my GitHub profile! Here you can find a showcase of my skills, projects, and accomplishments. 
 
-### Recent Work:
-- [WiseFlow - Effortless Cashflow Tracking, Enhanced Financial Management](https://github.com/AlekSkyHigh/wise-flow)
-
 ### Certificates:
 - [Angular - June 2023](https://softuni.bg/certificates/details/182975/175b1b10)
 - [JS Back-End - May 2023](https://softuni.bg/certificates/details/175216/69782094)
