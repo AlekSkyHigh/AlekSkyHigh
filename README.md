@@ -15,6 +15,7 @@
 - [Number Guess Challenge Game](https://github.com/AlekSkyHigh/Number-Guess-Challenge-Game)
 - [Time Value of Money (TVM) Calculator](https://github.com/AlekSkyHigh/Finance-TVM-Calculator)
 - [React - Classic Calculator](https://github.com/AlekSkyHigh/react-calculator)
+- [React - Connect-4 Game](https://github.com/AlekSkyHigh/react-connect-4)
   
 
 ### Languages and Tools:
