@@ -10,12 +10,12 @@
 - [HTML & CSS - Certification Course for Beginners](https://www.udemy.com/certificate/UC-d16acdb6-af83-4d8e-b631-1db61447153a)
 
 ### Projects:
+- [React - Classic Calculator](https://github.com/AlekSkyHigh/react-calculator)
+- [React - Connect-4 Game](https://github.com/AlekSkyHigh/react-connect-4)
 - [WiseFlow - Financial Management](https://github.com/AlekSkyHigh/wise-flow)
 - [2D-Car-Driving-Game](https://github.com/AlekSkyHigh/2D-Car-Driving-Game)
 - [Number Guess Challenge Game](https://github.com/AlekSkyHigh/Number-Guess-Challenge-Game)
 - [Time Value of Money (TVM) Calculator](https://github.com/AlekSkyHigh/Finance-TVM-Calculator)
-- [React - Classic Calculator](https://github.com/AlekSkyHigh/react-calculator)
-- [React - Connect-4 Game](https://github.com/AlekSkyHigh/react-connect-4)
   
 
 ### Languages and Tools:
