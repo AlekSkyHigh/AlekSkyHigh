@@ -12,7 +12,7 @@
 ### Projects:
 - [React - Classic Calculator](https://github.com/AlekSkyHigh/react-calculator)
 - [React - Connect-4 Game](https://github.com/AlekSkyHigh/react-connect-4)
-- [WiseFlow - Financial Management](https://github.com/AlekSkyHigh/wise-flow)
+- [Angular - WiseFlow - Financial Management](https://github.com/AlekSkyHigh/wise-flow)
 - [2D-Car-Driving-Game](https://github.com/AlekSkyHigh/2D-Car-Driving-Game)
 - [Number Guess Challenge Game](https://github.com/AlekSkyHigh/Number-Guess-Challenge-Game)
 - [Time Value of Money (TVM) Calculator](https://github.com/AlekSkyHigh/Finance-TVM-Calculator)
